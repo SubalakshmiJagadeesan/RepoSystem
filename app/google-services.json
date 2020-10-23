@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "386372967677",
+    "firebase_url": "https://github-repo-system.firebaseio.com",
+    "project_id": "github-repo-system",
+    "storage_bucket": "github-repo-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386372967677:android:d4585b1af56f148f4df294",
+        "android_client_info": {
+          "package_name": "com.example.githubreposystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386372967677-teq2cvrm33q9bl5jvubsqskltsm9a0tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6PL865Lb-VOXqGlH6hCPZCzw-vO7wq2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386372967677-teq2cvrm33q9bl5jvubsqskltsm9a0tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
